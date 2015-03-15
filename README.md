@@ -1,7 +1,7 @@
 # ccdc
 Automatically exported from code.google.com/p/ccdc
-CCDC Software
-Algorithm is not available online at the moment...
+
+CCDC Software Algorithm is not available online at the moment...
 
 Algorithm developed for Continuous Change Detection and Classification (CCDC) of land cover using all available Landsat data.
 
