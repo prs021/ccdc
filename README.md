@@ -13,7 +13,7 @@ paper 2: Zhu, Z. and Woodcock, C. E., Continuous change detection and classifica
 
 paper 3: Zhu, Z., Woodcock, C. E., Holden, C., and Yang, Z., Generating synthetic Landsat images based on all available Landsat data: Predicting Landsat surface reflectance at any given time, Remote Sensing of Environment (2015), doi.org/10.1016/j.rse.2015.02.009.(paper for CCDC version 11.4.)
 
-This algorithm has been applied to many parts of the world and you can see all located where it has been applied at here.
+This algorithm has been applied to many parts of the world and you can see all located where it has been applied at here (https://github.com/bullocke/Landsat-Database/blob/master/PRmap.geojson).
 
 You can download the PPT with GIF images that explain the CCDC algorithm at this link (https://www.dropbox.com/s/w23by47zrtnvyd3/ccdc_ppt.pptx?dl=0).
 
@@ -21,9 +21,15 @@ Or you can download the video that explain the CCDC algorithm at this link (http
 
 Bellow are all the revisions made for CCDC since its first publication (1.0 version)
 
-Revisions: $ Date: 03/14/2015 $ Copyright: Zhe Zhu
+Revisions: $ Date: 03/31/2015 $ Copyright: Zhe Zhu
 
-Version 13.01  Add more categories and update i_start in the end (03/14/2015)
+Version 13.4  Change T_const in Tmask (03/31/2015)
+
+Version 13.3  Update iteratively before 24 observations (03/22/2015)
+
+Version 13.2  Adjust mini RMSE based on temporal variability (03/22/2015)
+
+Version 13.1  Add more categories and update i_start in the end (03/14/2015)
 
 Version 13.0   Fit curve for disturbed peroid (03/13/2015)
 
