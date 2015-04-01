@@ -15,9 +15,9 @@ paper 3: Zhu, Z., Woodcock, C. E., Holden, C., and Yang, Z., Generating syntheti
 
 This algorithm has been applied to many parts of the world and you can see all located where it has been applied at here.
 
-You can download the PPT with GIF images that explain the CCDC algorithm at this link.
+You can download the PPT with GIF images that explain the CCDC algorithm at this link (https://www.dropbox.com/s/w23by47zrtnvyd3/ccdc_ppt.pptx?dl=0).
 
-Or you can download the video that explain the CCDC algorithm at this link (mp4) or link (wmv).
+Or you can download the video that explain the CCDC algorithm at this link (https://www.dropbox.com/s/z2ts2glufx1y705/ccdc_mp4.mp4?dl=0) (mp4) or link (https://www.dropbox.com/s/usybqoc61aszx75/ccdc_wmv.wmv?dl=0) (wmv).
 
 Bellow are all the revisions made for CCDC since its first publication (1.0 version)
 
