@@ -51,6 +51,9 @@ This algorithm has been applied to many parts of the world and you can see all l
 
 You can download the PPT with GIF images that explain the CCDC algorithm at this link (https://www.dropbox.com/s/1jzfte8mjy4qzzr/CCDC_algorithm_intro.pptx?dl=0).
 
+You can learn the CCDC algorithm and its current status at this link
+(https://landsat.usgs.gov/documents/science_LST_july2015/Zhu_070915_CC.mp4).
+
 Bellow are all the revisions made for CCDC since its first publication (1.0 version)
 
 Change Probability Threshold = 0.99
