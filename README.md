@@ -33,7 +33,7 @@ You need to extract those information from thousand of Matlab file to generate c
 
 How to use the code:
 
-1. Install Matlab Runtime Compilier version 8.1 for Linux 64-bit (http://www.mathworks.com/supportfiles/MCR_Runtime/R2013a/MCR_R2013a_glnxa64_installer.zip)
+1. Install Matlab Runtime Compilier version 8.1 for Linux 64-bit [here] (http://www.mathworks.com/supportfiles/MCR_Runtime/R2013a/MCR_R2013a_glnxa64_installer.zip)
 
 2. Download all available Landsat CDR data (http://landsat.usgs.gov/CDR_LSR.php) and put them into BIP ENVI format. This including stacking spectral bands in sequence of Blue, Green, Red, NIR, SWIR1, SWIR2, TIR, Fmask. Each image is in its sub-folders.
 
