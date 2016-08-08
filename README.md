@@ -3,7 +3,7 @@ Algorithm developed for Continuous Change Detection and Classification (CCDC) of
 
 CCDC Software is  available online now!
 
-The Change Detection software is here: https://www.dropbox.com/sh/4j3i5rtheujfjo1/AAA-3iH3iEgUxZeqMak7wNzRa?dl=0
+The Change Detection software is [here]: (https://www.dropbox.com/sh/4j3i5rtheujfjo1/AAA-3iH3iEgUxZeqMak7wNzRa?dl=0)
 
 The Classification software is not provided at the moment, as it required training data to run the software.
 
