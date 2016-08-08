@@ -1,5 +1,5 @@
 # ccdc
-Algorithm developed for Continuous Change Detection and Classification (CCDC) of land cover using all available Landsat data.
+Algorithm developed for Continuous Change Detection and Classification (CCDC) of land cover using all available Landsat data. Please contact Zhe Zhu (zhe.zhu@ttu.edu) at Department of Geosciences, Texas Tech University if you have any questions. 
 
 CCDC Software is  available online now!
 
@@ -49,9 +49,9 @@ paper 3: Zhu, Z., Woodcock, C. E., Holden, C., and Yang, Z., Generating syntheti
 
 This algorithm has been applied to many parts of the world and you can see all located where it has been applied at here (https://github.com/bullocke/Landsat-Database/blob/master/PRmap.geojson).
 
-You can download the PPT with GIF images that explain the CCDC algorithm at this link (https://www.dropbox.com/s/1jzfte8mjy4qzzr/CCDC_algorithm_intro.pptx?dl=0).
+You can download the PPT with GIF images that explain the CCDC algorithm at this [link] (https://www.dropbox.com/s/1jzfte8mjy4qzzr/CCDC_algorithm_intro.pptx?dl=0).
 
-You can learn the CCDC algorithm and its current status at this link
+You can learn the CCDC algorithm and its current status at this [link]
 (https://landsat.usgs.gov/documents/science_LST_july2015/Zhu_070915_CC.mp4).
 
 Bellow are all the revisions made for CCDC since its first publication (1.0 version)
