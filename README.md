@@ -35,13 +35,13 @@ How to use the code:
 
 1. Install Matlab Runtime Compilier version 8.1 for Linux 64-bit [here](http://ssd.mathworks.com/supportfiles/downloads/R2017b/deployment_files/R2017b/installers/glnxa64/MCR_R2017b_glnxa64_installer.zip) 
 
-2. Download all available Landsat CDR data from [espa](https://espa.cr.usgs.gov/) and put them into BIP ENVI format. This including stacking spectral bands in sequence of Blue, Green, Red, NIR, SWIR1, SWIR2, TIR, Fmask. Each image is in its sub-folders.
+2. Download all available Landsat CDR data from [espa](https://espa.cr.usgs.gov/) and put them into BIP ENVI format. This including stacking spectral bands in sequence of Blue, Green, Red, NIR, SWIR1, SWIR2, TIR, Fmask. Each image is in its sub-folders. Sample data can be downloaded [here](https://drive.google.com/drive/folders/1RerfMXpTrIOaZ_RG14MQlDnvFZZ4UBg2?usp=sharing).
 
 3. CD to the image folder where all the images are saved in each individual subfolder. If your CCDC software is save in this location /zhezhu/ccdc/, you can just type /zhezhu/ccdc/CCDC_ChangeARD13_01 1 1 to Run the standalone sotware on one core. 
 
-Extra: If you want to run on N cores, you will need to write script to submit job to each individual core by CCDC_ChangeARD13_01 i n (i=1,2,3...n; where n is the total number of cores, and i is which core to run the current job). Note that CCDC is extremly computational expensive. Please use as many cores as you can on your Linux clusters. The computing time for one path/row for 500~1000 images takes 1 hour to 5 hours for 500 cores running in parallel. Note that the CCDC default parameters are 0.99 change probability, 6 consecutive observations, and a maximum of 8 coefficients for time series models. If you want to specify your parameters, you just need to create a .txt file within the image folder, in which the first variable specify change probability, the second specify number of consecutive days, and the last variable is the maximum number of coefficients (can be 4, 6, or 8), such as *0.95 5 6*. 
+Extra instructions: If you want to run on N cores, you will need to write script to submit job to each individual core by CCDC_ChangeARD13_01 i n (i=1,2,3...n; where n is the total number of cores, and i is which core to run the current job). CCDC is extremly computational expensive. Please use as many cores as you can on your Linux clusters. The computing time for one path/row (500~1000 images) takes 1 hour to 5 hours for 500 cores running in parallel. CCDC default parameters are 0.99 change probability, 6 consecutive observations, and a maximum of 8 coefficients for time series models. If you want to specify your parameters, you just need to create a .txt file within the images folder, in which the first variable specify change probability, the second specify number of consecutive days, and the last variable is the maximum number of coefficients (can be 4, 6, or 8), such as 0.95 5 6. 
 
-Please cite the following
+Please cite the following papers
 
 paper 1: Zhu, Z. and Woodcock, C. E., Continuous monitoring of forest disturbance using all available Landsat imagery, Remote Sensing of Environment (2012), doi:10.1016/j.rse.2011.10.030.(paper for CCDC version 1.0.)
 
