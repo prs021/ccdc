@@ -47,9 +47,6 @@ paper 2: Zhu, Z. and Woodcock, C. E., Continuous change detection and classifica
 
 paper 3: Zhu, Z., Woodcock, C. E., Holden, C., and Yang, Z., Generating synthetic Landsat images based on all available Landsat data: Predicting Landsat surface reflectance at any given time, Remote Sensing of Environment (2015), doi.org/10.1016/j.rse.2015.02.009.(paper for CCDC version 11.4.) ()
 
-This algorithm has been applied to many parts of the world and you can see all located where it has been applied [here] (https://github.com/bullocke/Landsat-Database/blob/master/PRmap.geojson).
+This algorithm has been applied to many parts of the world and you can see all located where it has been applied [here](https://github.com/bullocke/Landsat-Database/blob/master/PRmap.geojson)  
 
-You can download the PPT with GIF images that explain the CCDC algorithm at this [link] (https://www.dropbox.com/s/1jzfte8mjy4qzzr/CCDC_algorithm_intro.pptx?dl=0).
-
-You can learn the CCDC algorithm and its current status at this [link]
-(https://landsat.usgs.gov/sites/default/files/documents/Zhu_070915_CC.mp4).
+You can download the PPT with GIF images that explain the CCDC algorithm at this [link](https://www.dropbox.com/s/1jzfte8mjy4qzzr/CCDC_algorithm_intro.pptx?dl=0)
