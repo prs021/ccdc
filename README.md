@@ -5,7 +5,7 @@ CCDC Software is available online now!
 
 The Most Recent 13.01 CCDC Software for Change Detection software is [here] (https://drive.google.com/file/d/1WiVLh4yWQ44JdQj87Wgh7lBLs32Px1xI/view?usp=sharing)
 
-[I'm an inline-style link](https://www.google.com)
+[here](https://drive.google.com/file/d/1WiVLh4yWQ44JdQj87Wgh7lBLs32Px1xI/view?usp=sharing)
 
 The Classification software is not provided at the moment, as it required training data to run the software.
 
