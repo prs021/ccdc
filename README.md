@@ -3,9 +3,7 @@ Algorithm developed for Continuous Change Detection and Classification (CCDC) of
 
 CCDC Software is available online now!
 
-The Most Recent 13.01 CCDC Software for Change Detection software is [here] (https://drive.google.com/file/d/1WiVLh4yWQ44JdQj87Wgh7lBLs32Px1xI/view?usp=sharing)
-
-[here](https://drive.google.com/file/d/1WiVLh4yWQ44JdQj87Wgh7lBLs32Px1xI/view?usp=sharing)
+The Most Recent 13.01 CCDC Software for Change Detection software is [here](https://drive.google.com/file/d/1WiVLh4yWQ44JdQj87Wgh7lBLs32Px1xI/view?usp=sharing). It would work both for Analysis Ready Data and Collection 1 data. It would only work for 64 bits Linux machine. 
 
 The Classification software is not provided at the moment, as it required training data to run the software.
 
@@ -37,7 +35,7 @@ How to use the code:
 
 1. Install Matlab Runtime Compilier version 8.1 for Linux 64-bit [here] (http://ssd.mathworks.com/supportfiles/downloads/R2017b/deployment_files/R2017b/installers/glnxa64/MCR_R2017b_glnxa64_installer.zip)
 
-2. Download all available Landsat CDR data (http://landsat.usgs.gov/CDR_LSR.php) and put them into BIP ENVI format. This including stacking spectral bands in sequence of Blue, Green, Red, NIR, SWIR1, SWIR2, TIR, Fmask. Each image is in its sub-folders.
+2. Download all available Landsat CDR data from [espa](https://espa.cr.usgs.gov/) and put them into BIP ENVI format. This including stacking spectral bands in sequence of Blue, Green, Red, NIR, SWIR1, SWIR2, TIR, Fmask. Each image is in its sub-folders.
 
 3. CD to the image folder where all the images are saved in each individual subfolders. If your CCDC software is save in this location /zhezhu/ccdc/, you can just type /zhezhu/ccdc/CCDC_ChangeARD13_01 1 1 to Run the standalone sotware on one core. If you want to run on N cores, you will need to write script to submit job to each individual cores by CCDC_ChangeARD13_01 i n (i=1,2,3...n; where n is the total number of cores, and i is which core to run the current job). Note that CCDC is extremly computational expensive. Please use as many cores as you can on your Linux clusters. The computing time for one path/row for 500~1000 images takes 1 hour to 5 hours for 500 cores running in parallel. 
 
