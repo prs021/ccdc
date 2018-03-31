@@ -3,7 +3,7 @@ Algorithm developed for Continuous Change Detection and Classification (CCDC) of
 
 CCDC Software is available online now!
 
-The Most Recent 13.01 CCDC Software for Change Detection software is [here](https://drive.google.com/file/d/1WiVLh4yWQ44JdQj87Wgh7lBLs32Px1xI/view?usp=sharing). It would work both for Analysis Ready Data and Collection 1 data. It would only work for 64 bits Linux machine. 
+The Most Recent 13.01 CCDC Software for Change Detection software is [here](https://drive.google.com/file/d/1XxTM2gmpe3hHGxfpXVPLbmUZC40nLzpK/view?usp=sharing). It would work both for Analysis Ready Data and Collection 1 data. It would only work for 64 bits Linux machine. 
 
 The Classification software is not provided at the moment, as it required training data to run the software.
 
