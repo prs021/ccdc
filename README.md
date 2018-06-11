@@ -3,8 +3,6 @@ Algorithm developed for Continuous Change Detection and Classification (CCDC) of
 
 **IMPORTANT:**
 
-**We have moved!**
-
-**The new URL for this page is https://github.com/gersl/ccdc/.**
+**We have moved!The new URL for this page is https://github.com/gersl/ccdc/.**
 
 **Sorry for any inconvenience.**
